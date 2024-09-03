@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pickles
+pydantic
+scikit-learn
+requests
+pypi-json
+ultralytics
+python-multipart
+opencv-python
